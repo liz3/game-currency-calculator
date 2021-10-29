@@ -16,3 +16,6 @@ Best of all? Everything updates in real time
 </span>
 
 [Instance](https://www.game-currency.org/)
+
+# License
+This is free software following GPL 2.0
